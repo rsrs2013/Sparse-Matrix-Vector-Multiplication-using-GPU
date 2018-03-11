@@ -1,0 +1,540 @@
+Reading matrix from ../Matrices/cant_62451.mtx
+Reading vector from ../Vectors/vector_cant_62451.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2034917
+Atomic Kernel Time: 22769 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/cant_62451.mtx
+Reading vector from ../Vectors/vector_cant_62451.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2034917
+Segmented Kernel Time: 174789 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/cant_62451.mtx
+Reading vector from ../Vectors/vector_cant_62451.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2034917
+Your Own Kernel Time: 108730 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/circuit5M_dc_3523317.mtx
+Reading vector from ../Vectors/vector_circuit5M_dc_3523317.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 19194193
+Atomic Kernel Time: 204174 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/circuit5M_dc_3523317.mtx
+Reading vector from ../Vectors/vector_circuit5M_dc_3523317.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 19194193
+Segmented Kernel Time: 1638440 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/circuit5M_dc_3523317.mtx
+Reading vector from ../Vectors/vector_circuit5M_dc_3523317.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 19194193
+Your Own Kernel Time: 1001856 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/consph_83334.mtx
+Reading vector from ../Vectors/vector_consph_83334.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3046907
+Atomic Kernel Time: 33504 micro-seconds
+
+ 1282 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/consph_83334.mtx
+Reading vector from ../Vectors/vector_consph_83334.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3046907
+Segmented Kernel Time: 260880 micro-seconds
+
+ 1080 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/consph_83334.mtx
+Reading vector from ../Vectors/vector_consph_83334.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3046907
+Your Own Kernel Time: 163056 micro-seconds
+
+ 1119 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/FullChip_2987012.mtx
+Reading vector from ../Vectors/vector_FullChip_2987012.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 26621990
+Atomic Kernel Time: 288793 micro-seconds
+
+ 3 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/FullChip_2987012.mtx
+Reading vector from ../Vectors/vector_FullChip_2987012.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 26621990
+Segmented Kernel Time: 2295361 micro-seconds
+
+ 3 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/FullChip_2987012.mtx
+Reading vector from ../Vectors/vector_FullChip_2987012.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 26621990
+Your Own Kernel Time: 1415457 micro-seconds
+
+ 3 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/mac_econ_fwd500_206500.mtx
+Reading vector from ../Vectors/vector_mac_econ_fwd500_206500.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 1273389
+Atomic Kernel Time: 14059 micro-seconds
+
+ 441 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/mac_econ_fwd500_206500.mtx
+Reading vector from ../Vectors/vector_mac_econ_fwd500_206500.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 1273389
+Segmented Kernel Time: 110185 micro-seconds
+
+ 714 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/mac_econ_fwd500_206500.mtx
+Reading vector from ../Vectors/vector_mac_econ_fwd500_206500.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 1273389
+Your Own Kernel Time: 68257 micro-seconds
+
+ 731 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/mc2depi_525825.mtx
+Reading vector from ../Vectors/vector_mc2depi_525825.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2100225
+Atomic Kernel Time: 21889 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/mc2depi_525825.mtx
+Reading vector from ../Vectors/vector_mc2depi_525825.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2100225
+Segmented Kernel Time: 175614 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/mc2depi_525825.mtx
+Reading vector from ../Vectors/vector_mc2depi_525825.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2100225
+Your Own Kernel Time: 110433 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/pdb1HYS_36417.mtx
+Reading vector from ../Vectors/vector_pdb1HYS_36417.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2190591
+Atomic Kernel Time: 24071 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/pdb1HYS_36417.mtx
+Reading vector from ../Vectors/vector_pdb1HYS_36417.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2190591
+Segmented Kernel Time: 187068 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/pdb1HYS_36417.mtx
+Reading vector from ../Vectors/vector_pdb1HYS_36417.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2190591
+Your Own Kernel Time: 116875 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/pwtk_217918.mtx
+Reading vector from ../Vectors/vector_pwtk_217918.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 5926171
+Atomic Kernel Time: 64459 micro-seconds
+
+ 90994 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/pwtk_217918.mtx
+Reading vector from ../Vectors/vector_pwtk_217918.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 5926171
+Segmented Kernel Time: 506756 micro-seconds
+
+ 87181 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/pwtk_217918.mtx
+Reading vector from ../Vectors/vector_pwtk_217918.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 5926171
+Your Own Kernel Time: 315495 micro-seconds
+
+ 81995 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/rail4284_1096894.mtx
+Reading vector from ../Vectors/vector_rail4284_1096894.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 11284032
+Atomic Kernel Time: 127029 micro-seconds
+
+ 605 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/rail4284_1096894.mtx
+Reading vector from ../Vectors/vector_rail4284_1096894.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 11284032
+Segmented Kernel Time: 968896 micro-seconds
+
+ 554 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/rail4284_1096894.mtx
+Reading vector from ../Vectors/vector_rail4284_1096894.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 11284032
+Your Own Kernel Time: 609866 micro-seconds
+
+ 573 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/rma10_46835.mtx
+Reading vector from ../Vectors/vector_rma10_46835.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2374001
+Atomic Kernel Time: 26095 micro-seconds
+
+ 28245 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/rma10_46835.mtx
+Reading vector from ../Vectors/vector_rma10_46835.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2374001
+Segmented Kernel Time: 202928 micro-seconds
+
+ 29322 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/rma10_46835.mtx
+Reading vector from ../Vectors/vector_rma10_46835.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 2374001
+Your Own Kernel Time: 126600 micro-seconds
+
+ 29059 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/scircuit_170998.mtx
+Reading vector from ../Vectors/vector_scircuit_170998.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 958936
+Atomic Kernel Time: 10427 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/scircuit_170998.mtx
+Reading vector from ../Vectors/vector_scircuit_170998.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 958936
+Segmented Kernel Time: 82125 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/scircuit_170998.mtx
+Reading vector from ../Vectors/vector_scircuit_170998.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 958936
+Your Own Kernel Time: 50661 micro-seconds
+
+ 1 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/shipsec1_140874.mtx
+Reading vector from ../Vectors/vector_shipsec1_140874.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3977139
+Atomic Kernel Time: 43561 micro-seconds
+
+ 60383 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/shipsec1_140874.mtx
+Reading vector from ../Vectors/vector_shipsec1_140874.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3977139
+Segmented Kernel Time: 340502 micro-seconds
+
+ 60361 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/shipsec1_140874.mtx
+Reading vector from ../Vectors/vector_shipsec1_140874.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3977139
+Your Own Kernel Time: 212059 micro-seconds
+
+ 56222 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/turon_m_189924.mtx
+Reading vector from ../Vectors/vector_turon_m_189924.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 912345
+Atomic Kernel Time: 9796 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/turon_m_189924.mtx
+Reading vector from ../Vectors/vector_turon_m_189924.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 912345
+Segmented Kernel Time: 77908 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/turon_m_189924.mtx
+Reading vector from ../Vectors/vector_turon_m_189924.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 912345
+Your Own Kernel Time: 47395 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/watson_2_677224.mtx
+Reading vector from ../Vectors/vector_watson_2_677224.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 1846391
+Atomic Kernel Time: 19773 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/watson_2_677224.mtx
+Reading vector from ../Vectors/vector_watson_2_677224.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 1846391
+Segmented Kernel Time: 156500 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/watson_2_677224.mtx
+Reading vector from ../Vectors/vector_watson_2_677224.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 1846391
+Your Own Kernel Time: 95938 micro-seconds
+
+ 1 Disagreements
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/webbase-1M_1000005.mtx
+Reading vector from ../Vectors/vector_webbase_1M_1000005.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3105536
+Atomic Kernel Time: 31849 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/webbase-1M_1000005.mtx
+Reading vector from ../Vectors/vector_webbase_1M_1000005.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3105536
+Segmented Kernel Time: 256648 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
+Reading matrix from ../Matrices/webbase-1M_1000005.mtx
+Reading vector from ../Vectors/vector_webbase_1M_1000005.txt
+
+GPU Code
+Block Size : 512, Number of Blocks : 8, nz : 3105536
+Your Own Kernel Time: 160533 micro-seconds
+
+Everything is within the acceptable tolerance. Good Job
+So long and thank you for the fish!
+
+*******************************************
+
